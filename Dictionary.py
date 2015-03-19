@@ -1,7 +1,7 @@
 #!/usr/bin/env Python
 def dictionary():
     words = """aardvark
-    aardwol
+    aardwolf
     aback
     abacus
     abaft
